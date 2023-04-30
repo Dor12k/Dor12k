@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-1. Birds detection and tracking
+
+## 1. Birds detection and tracking
 
 https://user-images.githubusercontent.com/107938584/235341318-e6164411-1513-4df7-9185-b31f13c82d4c.mp4
 
-2. Strawberry Diseases Classification
+
+
+## 2. Strawberry Diseases Classification
 
 Android application
 
