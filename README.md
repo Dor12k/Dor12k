@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A short preview oof my last projects
+A short preview of my last projects
 
 1. Birds detection and tracking
 
