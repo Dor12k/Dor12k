@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A short preview oof my last projects
+
+1. Birds detection and tracking
+https://user-images.githubusercontent.com/107938584/235341318-e6164411-1513-4df7-9185-b31f13c82d4c.mp4
+
+2. Strawberry Diseases Classification
+https://user-images.githubusercontent.com/107938584/235341356-3a403d56-020c-4c89-b5c1-2ad1965871e3.mp4
