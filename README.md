@@ -23,4 +23,12 @@ https://user-images.githubusercontent.com/107938584/235341318-e6164411-1513-4df7
 
 2. Strawberry Diseases Classification
 
+Android application
+
 https://user-images.githubusercontent.com/107938584/235341356-3a403d56-020c-4c89-b5c1-2ad1965871e3.mp4
+
+Website
+
+![web 8](https://user-images.githubusercontent.com/107938584/235341422-0fef1f14-3660-4348-8fff-f9d692324457.jpg)
+
+
