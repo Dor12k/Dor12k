@@ -27,7 +27,6 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 https://user-images.githubusercontent.com/107938584/235341318-e6164411-1513-4df7-9185-b31f13c82d4c.mp4
 
 
-
 ## 3. Strawberry Diseases Classification. Android application & Website
 
 Android application
@@ -39,3 +38,6 @@ Website
 ![web 8](https://user-images.githubusercontent.com/107938584/235341422-0fef1f14-3660-4348-8fff-f9d692324457.jpg)
 
 
+## Test
+
+![Web vid](Preview.mp4)
