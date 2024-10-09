@@ -38,5 +38,10 @@ Website
 ![web 8](https://user-images.githubusercontent.com/107938584/235341422-0fef1f14-3660-4348-8fff-f9d692324457.jpg)
 
 
-## Test
+### 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
+<br>
+[www.aiStrawberries.com](https://www.aiStrawberries.com)
+<br>
+Preview
+<br>
 https://github.com/user-attachments/assets/4968eb1a-7ac7-47be-bf61-1d1b0e50bfc7
