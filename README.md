@@ -23,14 +23,20 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 
 
 ## 2. Self-Driving Car.
-
+Comming soon
+<br>
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
+
+https://www.aiStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
+Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
+Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. <br>
 <br>
-https://www.aiStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. 
-Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. 
-Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively.
-<br><br>
 Preview
-<br><br>
-https://github.com/user-attachments/assets/0750016a-c870-4f5d-a299-52a54eb9d969
+<br>
+
+https://github.com/user-attachments/assets/24b4782a-fc02-4e23-8a31-eb37ada457be
+
+
+
+
