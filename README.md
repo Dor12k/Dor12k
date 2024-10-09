@@ -27,9 +27,10 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
 <br>
-[www.aiStrawberries.com](https://www.aiStrawberries.com)
-<br>
+https://www.aiStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. 
+Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. 
+Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively.
+<br><br>
 Preview
-<br>
-
-[Preview](Preview.mp4)
+<br><br>
+https://github.com/user-attachments/assets/0750016a-c870-4f5d-a299-52a54eb9d969
