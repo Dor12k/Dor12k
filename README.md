@@ -40,4 +40,4 @@ Website
 
 ## Test
 
-![Web vid](Preview.mp4)
+![Web](Preview.mp4)
