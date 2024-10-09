@@ -31,4 +31,5 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 <br>
 Preview
 <br>
-https://github.com/user-attachments/assets/4968eb1a-7ac7-47be-bf61-1d1b0e50bfc7
+
+[Preview](Preview.mp4)
