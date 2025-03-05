@@ -21,10 +21,10 @@ A short preview of my last projects
 
 An AI-powered drone system designed to detect and track pigeons using CNN and OpenCV. <br>
 The system leverages movement detection, object detection, and object tracking to identify pigeons and initiate autonomous navigation to chase and repel them.
-Using ResNet50 with Transfer Learning, the project achieves high accuracy and optimizes performance for real-time applications. <br>
+Using ResNet50 with Transfer Learning, the project achieves high accuracy and optimizes performance for real-time applications.
 The drone autonomously navigates and repels pigeons, enhancing urban spaces with minimal human intervention. <br>
 <a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-
+<br>
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
 
