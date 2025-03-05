@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-## 1. Expel pigeons with AI drone using CNN and OpenCV.
+## 1. Repel pigeons with AI drone using CNN and OpenCV.
 
+An AI-powered drone system designed to detect and track pigeons using CNN and OpenCV. <br>
+The system leverages movement detection, object recognition, and real-time tracking to identify pigeons and initiate drone patrols. <br>
+Using ResNet50 with Transfer Learning, the project achieves high accuracy and optimizes performance for real-time applications. <br>
 <a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
