@@ -34,7 +34,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 
 https://github.com/user-attachments/assets/24b4782a-fc02-4e23-8a31-eb37ada457be
 
-
+<br>
 
 ## 4. Full Stack Canva Application with React.js, Node.js, Express.js, and MongoDB. (MERN)
 
