@@ -29,7 +29,7 @@ The drone autonomously navigates and repels pigeons, enhancing urban spaces with
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
 
-## 2. Self-Driving Car.
+## 2. Self-Driving Car – AI-Powered with Electronic Components
 
 Designed and built a self-driving car from scratch, integrating AI for traffic sign, traffic light, and obstacle detection. <br>
 Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br> <br>
