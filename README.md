@@ -36,7 +36,7 @@ Developed a user interface for remote control and GPS simulation, using multithr
 <br> <br>
 **Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV. <br><br>
 <a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-<br>
+<br><br>
 Video comming soon
 <br>
 
@@ -68,7 +68,7 @@ A full-stack web application that replicates key features of Canva, enabling use
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 <br><br>
 <a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
-<br><br>
+<br>
 
 https://github.com/user-attachments/assets/3ba532c9-f57a-4674-a1bf-45c40677aeca
 
