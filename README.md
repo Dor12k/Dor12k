@@ -32,11 +32,10 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 ## 2. Self-Driving Car – AI-Powered with Electronic Components
 
 Designed and built a self-driving car from scratch, integrating AI for traffic sign, traffic light, and obstacle detection. <br>
-Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br> <br>
-Tech Stack: Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV.
-<br>
+Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br>
 <a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-<br>
+<br> <br>
+**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV. <br>
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
 
@@ -45,7 +44,7 @@ Our website allows users to easily classify strawberry plant leaf diseases using
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 [Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 <br><br>
-Tech Stack:
+**Tech Stack:**
 
   -  Backend: Django, Python, PostgreSQL (AWS RDS)
   -  Frontend: HTML, CSS, JavaScript
@@ -61,7 +60,7 @@ https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 ## 4. Full-Stack Canva Application – MERN Stack
 
 A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resize, rotate, font weight, color, and more.
-<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br><br>
+<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 
