@@ -32,9 +32,8 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 ## 2. Self-Driving Car.
 
 Designed and built a self-driving car from scratch, integrating AI for traffic sign, traffic light, and obstacle detection. <br>
-Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br>
+Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br> <br>
 Tech Stack: Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV.
-
 <br>
 <a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
 <br>
