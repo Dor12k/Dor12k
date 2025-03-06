@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 
 ## 4. Full-Stack Canva Application – MERN Stack
 
-A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resize, rotate, font weight, color, and more.
+A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resizing, rotating, font customization, and color adjustments  and more.
 <br><br>
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 <br><br>
