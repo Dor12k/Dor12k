@@ -44,6 +44,10 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 [    Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 
 https://github.com/user-attachments/assets/c0130dfc-e5cb-406f-be41-509fb5d8453e
+
+https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
+
+
 <br>
 
 ## 4. Full Stack Canva Application with React.js, Node.js, Express.js, and MongoDB. (MERN)
