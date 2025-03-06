@@ -42,8 +42,8 @@ https://www.aiStrawberries.com is an innovative platform designed for strawberry
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 [    Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
-<br>
-https://github.com/user-attachments/assets/c72f5146-deec-489d-847b-ae3e03201339
+
+https://github.com/user-attachments/assets/c0130dfc-e5cb-406f-be41-509fb5d8453e
 <br>
 
 ## 4. Full Stack Canva Application with React.js, Node.js, Express.js, and MongoDB. (MERN)
