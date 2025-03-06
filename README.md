@@ -42,7 +42,7 @@ https://www.aiStrawberries.com is an innovative platform designed for strawberry
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 [    Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
-
+<br>
 https://github.com/user-attachments/assets/c72f5146-deec-489d-847b-ae3e03201339
 <br>
 
