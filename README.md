@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c72f5146-deec-489d-847b-ae3e03201339
 ### Hi there 👋
 
 <!--
@@ -44,7 +43,7 @@ Our website allows users to easily classify strawberry plant leaf diseases using
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 [    Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 
-https://github.com/user-attachments/assets/dc80adce-6ad5-477e-a709-c9e22b701ac6
+https://github.com/user-attachments/assets/c72f5146-deec-489d-847b-ae3e03201339
 <br>
 
 ## 4. Full Stack Canva Application with React.js, Node.js, Express.js, and MongoDB. (MERN)
