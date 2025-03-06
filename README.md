@@ -32,17 +32,19 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 ## 2. Self-Driving Car – AI-Powered with Electronic Components
 
 Designed and built a self-driving car from scratch, integrating AI for traffic sign, traffic light, and obstacle detection. <br>
-Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. <br>
-<a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
+Developed a user interface for remote control and GPS simulation, using multithreading for real-time processing. 
 <br> <br>
-**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV. <br>
+**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), TensorFlow Lite, NumPy, OpenCV. <br><br>
+<a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
+<br>
+Video comming soon
+<br>
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
 
 https://www.aiStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
-[Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 <br><br>
 **Tech Stack:**
 
@@ -52,6 +54,8 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
   -  Deployment: AWS EC2, Nginx, Docker, AWS S3, TensorFlow SageMaker
   -  Android App: Java (Android Studio), TensorFlow Lite <br>
 
+[Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
+<br>
 
 https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 
@@ -60,10 +64,11 @@ https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 ## 4. Full-Stack Canva Application – MERN Stack
 
 A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resize, rotate, font weight, color, and more.
-<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
-
+<br>
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
-
+<br>
+<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
+<br>
 
 https://github.com/user-attachments/assets/3ba532c9-f57a-4674-a1bf-45c40677aeca
 
