@@ -60,9 +60,10 @@ https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 
 ## 4. Full Stack Canva Application with React.js, Node.js, Express.js, and MongoDB. (MERN)
 
-This project is a full-stack web application built with React.js, Node.js, Express.js, and MongoDB. <br>
-The application replicates key features of Canva, allowing users to register, create, and design custom canvases with various tools and 
-features. <a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a>
+A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resize, rotate, font weight, color, and more.
+<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br><br>
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB.
 
 
 https://github.com/user-attachments/assets/3ba532c9-f57a-4674-a1bf-45c40677aeca
