@@ -44,17 +44,17 @@ https://www.aiStrawberries.com is an innovative platform designed for strawberry
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 [Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
-<br>
+<br><br>
 Tech Stack:
 
   -  Backend: Django, Python, PostgreSQL (AWS RDS)
   -  Frontend: HTML, CSS, JavaScript
   -  AI & Model Training: TensorFlow, OpenCV, NumPy, Matplotlib
   -  Deployment: AWS EC2, Nginx, Docker, AWS S3, TensorFlow SageMaker
-  -  Android App: Java (Android Studio), TensorFlow Lite
-<br>
-https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
+  -  Android App: Java (Android Studio), TensorFlow Lite <br>
 
+
+https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 
 <br>
 
