@@ -45,7 +45,7 @@ Video comming soon
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
 
-https://www.aiStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
+AIStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 <br><br>
