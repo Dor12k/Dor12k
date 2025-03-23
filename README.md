@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
 
 A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resizing, rotating, font customization, and color adjustments  and more.
 <br><br>
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
+**Tech Stack:** React.js, Vite, Node.js, Express.js and MongoDB.
 <br><br>
 <a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
 <br>
