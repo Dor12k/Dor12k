@@ -64,7 +64,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 
 Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
-[![Watch the video](https://github.com/user-attachments/assets/08da2c82-c859-4d1a-bf50-f0f238e53baf)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
+[![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 <br>
 
