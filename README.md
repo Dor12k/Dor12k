@@ -61,7 +61,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 [Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 <br>
 
-https://github.com/user-attachments/assets/08da7d67-22f3-4b5a-8de6-1deea84ce667
+https://github.com/user-attachments/assets/ee1c8640-8aea-4638-b895-7b7d4b2342db
 
 <br>
 
