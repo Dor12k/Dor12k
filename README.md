@@ -50,13 +50,19 @@ Video comming soon
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 <br><br>
-**Tech Stack:**
 
-  -  Backend: Django, Python, PostgreSQL (AWS RDS)
-  -  Frontend: HTML, CSS, JavaScript
-  -  AI & Model Training: TensorFlow, OpenCV, NumPy, Matplotlib
-  -  Deployment: AWS EC2, Nginx, Docker, AWS S3, TensorFlow SageMaker
-  -  Android App: Java (Android Studio), TensorFlow Lite <br>
+**Tech Stack (latest version):**
+
+- **Backend:** Django, Python, Django REST Framework (DRF)
+- **Frontend:** React.js (with Vite), Node.js
+- **Database:** PostgreSQL (AWS RDS)
+- **AI & Model Training:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Pandas
+- **Deployment:** Docker, Nginx, AWS EC2, AWS S3, Redis
+- **Versioning & Tools:** Git, GitHub, AWS CLI
+
+**Note:**  
+The original version of this project used plain HTML, CSS, and JavaScript for the frontend, and did not include a REST API layer.  
+It was later upgraded to a modern full-stack architecture using React and Django REST Framework to support better scalability, maintainability, and mobile API integration.
 
 [Click here for the full repository.](https://github.com/Dor12k/Classification_Web_Application)
 <br>
