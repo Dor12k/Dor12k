@@ -51,7 +51,7 @@ Our website allows users to easily classify strawberry plant leaf diseases using
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 <br><br>
 
-### 🚀 Tech Stack (Latest Version)
+### Tech Stack (Latest Version)
 
 - **Backend:** Django, Python, Django REST Framework (DRF)
 - **Frontend:** React.js (with Vite), Node.js
@@ -65,6 +65,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 - **Version Control & Tools:** Git, GitHub, AWS CLI
 
 - **Android App:** Built with Java (Android Studio) and TensorFlow Lite
+
 
 **Note:**  
 The original version of this project used plain HTML, CSS, and JavaScript for the frontend, and did not include a REST API layer.  
