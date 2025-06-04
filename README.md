@@ -18,7 +18,21 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-## 1. Repel Pigeons with AI Drone – Computer Vision & Deep Learning
+## 1. Self-Driving Car | Raspberry Pi, Arduino, and Real-Time Computer Vision
+
+Built a self-driving car from scratch, integrating AI to detect traffic signs, traffic lights, and obstacles. <br> 
+Developed a remote control interface and implemented GPS simulation using multithreading for real-time processing. <br>
+The car successfully navigates autonomously while responding to traffic signals and obstacles.
+<br> <br>
+**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), Python, TensorFlow Lite, OpenCV, NumPy, Multithreading, GPS Simulation. <br><br>
+<a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
+<br><br>
+Watch the video [here](https://youtu.be/1vHhDjWunTw)
+
+[![Watch the video](https://github.com/user-attachments/assets/7f4690b1-4221-4d37-945c-dd8631545ef5)](https://youtu.be/1vHhDjWunTw)
+<br>
+
+## 2. Repel Pigeons with AI Drone – Computer Vision & Deep Learning
 
 An AI-powered drone system designed to detect and track pigeons using Deep Learning and Computer Vision. <br>
 The system leverages **movement detection**, **object detection**, and **object tracking** to identify pigeons and initiate autonomous navigation to chase and repel them, 
@@ -31,18 +45,6 @@ enhancing urban spaces with minimal human intervention.
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
-
-## 2. Self-Driving Car – AI-Powered with Electronic Components
-
-Built a self-driving car from scratch, integrating AI to detect traffic signs, traffic lights, and obstacles. <br> 
-Developed a remote control interface and implemented GPS simulation using multithreading for real-time processing. <br>
-The car successfully navigates autonomously while responding to traffic signals and obstacles.
-<br> <br>
-**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), Python, TensorFlow Lite, OpenCV, NumPy, Multithreading, GPS Simulation. <br><br>
-<a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-<br><br>
-Video comming soon
-<br>
 
 ## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
 
