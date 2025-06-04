@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-## 1. Self-Driving Car | Raspberry Pi, Arduino, and Real-Time Computer Vision
+## 1. AI-Powered Self-Driving Car | Real-Time Computer Vision & Deep Learning on Raspberry Pi & Arduino
 
 Built a self-driving car from scratch, integrating AI to detect traffic signs, traffic lights, and obstacles. <br> 
 Developed a remote control interface and implemented GPS simulation using multithreading for real-time processing. <br>
