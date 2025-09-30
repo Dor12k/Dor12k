@@ -27,7 +27,7 @@ The car successfully navigates autonomously while responding to traffic signals 
 **Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), Python, TensorFlow Lite, OpenCV, NumPy, Multithreading, GPS Simulation. <br><br>
 <a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
 <br><br>
-Watch the video [here](https://youtu.be/1vHhDjWunTw)
+## Watch the video [here](https://youtu.be/1vHhDjWunTw)
 
 [![Watch the video](https://github.com/user-attachments/assets/7f4690b1-4221-4d37-945c-dd8631545ef5)](https://youtu.be/1vHhDjWunTw)
 <br>
@@ -77,7 +77,7 @@ It was later upgraded to a modern full-stack architecture using React and Django
 <br>
 
 
-Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
+## Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 [![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
@@ -93,7 +93,7 @@ A full-stack web application that replicates key features of Canva, enabling use
 <br>
 
 
-Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
+## Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
 
 [![Watch the video](https://github.com/user-attachments/assets/e30160c1-5859-4af2-b89a-e0fd46efe78c)](https://www.youtube.com/watch?v=CNZLmfk8YL8)
 
