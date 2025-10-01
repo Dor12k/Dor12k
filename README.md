@@ -30,23 +30,10 @@ The car successfully navigates autonomously while responding to traffic signals 
 ## Watch the video [here](https://youtu.be/1vHhDjWunTw)
 
 [![Watch the video](https://github.com/user-attachments/assets/7f4690b1-4221-4d37-945c-dd8631545ef5)](https://youtu.be/1vHhDjWunTw)
+
 <br>
 
-## 2. Repel Pigeons with AI Drone – Computer Vision & Deep Learning
-
-An AI-powered drone system designed to detect and track pigeons using Deep Learning and Computer Vision. <br>
-The system leverages **movement detection**, **object detection**, and **object tracking** to identify pigeons and initiate autonomous navigation to chase and repel them, 
-enhancing urban spaces with minimal human intervention. 
-<br><br>
-**Tech Stack:** Python, TensorFlow, OpenCV, Matplotlib, Pandas.
-<br><br>
-<a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-<br>
-
-https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
-
-
-## 3. Android & Web Application: Strawberry Plant Leaf Diseases Classification
+## 2. Web & Android Application: Strawberry Plant Leaf Diseases Classification
 
 [AIStrawberries.com](https://www.aiStrawberries.com) is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
@@ -80,6 +67,22 @@ It was later upgraded to a modern full-stack architecture using React and Django
 ## Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 [![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
+
+<br>
+
+## 3. Repel Pigeons with AI Drone – Computer Vision & Deep Learning
+
+An AI-powered drone system designed to detect and track pigeons using Deep Learning and Computer Vision. <br>
+The system leverages **movement detection**, **object detection**, and **object tracking** to identify pigeons and initiate autonomous navigation to chase and repel them, 
+enhancing urban spaces with minimal human intervention. 
+<br><br>
+**Tech Stack:** Python, TensorFlow, OpenCV, Matplotlib, Pandas.
+<br><br>
+<a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
+<br>
+
+https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
+
 
 <br>
 
