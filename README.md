@@ -75,19 +75,20 @@ It was later upgraded to a modern full-stack architecture using React and Django
 
 <br>
 
-## 3. Repel Pigeons with AI Drone – Computer Vision & Deep Learning
+## 3. AI Drone | Autonomous Pigeon Repelling | Computer Vision & Deep Learning
 
 An AI-powered drone system designed to detect and track pigeons using Deep Learning and Computer Vision. <br>
 The system leverages **movement detection**, **object detection**, and **object tracking** to identify pigeons and initiate autonomous navigation to chase and repel them, 
 enhancing urban spaces with minimal human intervention. 
-<br><br>
+
 **Tech Stack:** Python, TensorFlow, OpenCV, Matplotlib, Pandas.
-<br><br>
+
 <a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
 <br>
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
+👉 [Click here for the full repository.](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480)
 
 <br>
 
