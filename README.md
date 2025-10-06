@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-## 1. Self-Driving Car | Computer Vision & Deep Learning on Embedded Systems
+## 1. AI Self-Driving Car | Computer Vision & Deep Learning on Embedded Systems
 
 Developed an AI-powered self-driving car from scratch, integrating computer vision models to detect traffic signs, lights, and obstacles.
 Built a remote control interface for manual override and implemented GPS simulation with multithreading for real-time navigation.
@@ -38,7 +38,7 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 
 <br>
 
-## 2. Full-Stack Web & Android Application: Strawberry Plant Leaf Diseases Classification
+## 2. AI Full-Stack Web & Android Application: Strawberry Plant Leaf Diseases Classification
 
 [AIStrawberries.com](https://www.aiStrawberries.com) is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
