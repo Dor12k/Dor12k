@@ -38,7 +38,7 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 
 <br>
 
-## 2. Web & Android Application: Strawberry Plant Leaf Diseases Classification
+## 2. Full-Stack Web & Android Application: Strawberry Plant Leaf Diseases Classification
 
 [AIStrawberries.com](https://www.aiStrawberries.com) is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
