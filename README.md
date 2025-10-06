@@ -65,7 +65,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 The original version of this project used plain HTML, CSS, and JavaScript for the frontend, and did not include a REST API layer.  
 It was later upgraded to a modern full-stack architecture using React and Django REST Framework to support better scalability, maintainability, and mobile API integration.
 
-[Click here for the full repository.](https://github.com/Dor12k/Full-Stack-Strawberry-Disease-Classification)
+👉 [Click here for the full repository.](https://github.com/Dor12k/Full-Stack-Strawberry-Disease-Classification)
 <br>
 
 
