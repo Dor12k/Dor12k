@@ -96,12 +96,10 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 ## 4. Full-Stack Canva Application – MERN Stack
 
 A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resizing, rotating, font customization, and color adjustments  and more.
-<br><br>
-**Tech Stack:** Vite, React.js, Node.js, Express.js and MongoDB.
-<br><br>
-<a href="https://github.com/Dor12k/MERN-Canva-Project" target="_blank" rel="noopener noreferrer">   Click here for the full repository. </a> <br>
-<br>
 
+**Tech Stack:** Vite, React.js, Node.js, Express.js and MongoDB.
+
+👉 [Click here for the full repository.](https://github.com/Dor12k/MERN-Canva-Project)
 
 # <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
 
