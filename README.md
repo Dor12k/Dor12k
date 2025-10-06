@@ -83,12 +83,13 @@ enhancing urban spaces with minimal human intervention.
 
 **Tech Stack:** Python, TensorFlow, OpenCV, Matplotlib, Pandas.
 
-<a href="https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
+
+👉 [Click here for the full repository.](https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone)
+
 <br>
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
-👉 [Click here for the full repository.](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480)
 
 <br>
 
