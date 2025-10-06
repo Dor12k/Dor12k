@@ -18,16 +18,19 @@ Here are some ideas to get you started:
 
 A short preview of my last projects
 
-## 1. Self-Driving Car | Computer Vision & Deep Learning on Raspberry Pi & Arduino
+## 1. Self-Driving Car | Computer Vision & Deep Learning on Embedded Systems
 
-Built a self-driving car from scratch, integrating AI to detect traffic signs, traffic lights, and obstacles. <br> 
-Developed a remote control interface and implemented GPS simulation using multithreading for real-time processing. <br>
-The car successfully navigates autonomously while responding to traffic signals and obstacles.
-<br> <br>
-**Tech Stack:** Raspberry Pi, Arduino UNO, C++ (Linux), Python, TensorFlow Lite, OpenCV, NumPy, Multithreading, GPS Simulation. <br><br>
-<a href="https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP" target="_blank" rel="noopener noreferrer"> Click here for the full repository. </a>
-<br><br>
+Developed an AI-powered self-driving car from scratch, integrating computer vision models to detect traffic signs, lights, and obstacles.
+Built a remote control interface for manual override and implemented GPS simulation with multithreading for real-time navigation.
+The system runs entirely on Raspberry Pi (Linux) and autonomously responds to traffic conditions and obstacles.
+
+**Tech Stack (Linux):** Python, C++, TensorFlow Lite, OpenCV, NumPy, Multithreading, Raspberry Pi, Arduino UNO. 
+
+
+👉 [Click here for the full repository.](https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP)
+
 # <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://youtu.be/1vHhDjWunTw)
+
 
 
 
