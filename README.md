@@ -55,7 +55,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
   - Backend: Pytest (unit & integration tests)
   - Frontend: Jest, React Testing Library
 - **CI/CD & DevOps:** GitHub Actions (CI/CD pipelines), Docker, Redis
-- **Cloud & Deployment:** AWS EC2, S3, RDS, Nginx
+- **Cloud & Deployment:** AWS ECS, ECR, EC2, S3, RDS, Nginx
 - **Version Control & Tools:** Git, GitHub, AWS CLI
 
 - **Android App:** Built with Java (Android Studio) and TensorFlow Lite
