@@ -85,7 +85,7 @@ Built with **Python**, **TensorFlow**, **OpenCV**, and **NumPy**, featuring GPS 
 
 👉 [Click here for the full repository.](https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone)
 
-# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://youtu.be/1vHhDjWunTw)
+# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here]()
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
