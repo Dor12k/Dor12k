@@ -27,7 +27,7 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 **Tech Stack (Linux):** Python, C++, TensorFlow Lite, OpenCV, NumPy, Multithreading, Raspberry Pi, Arduino UNO. 
 
 
-👉 [Click here for the full repository.](https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP)
+👉 [Click here for the full repository](https://github.com/Dor12k/Self-Driving-Car-RaspberryPi-CPP)
 
 # <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://youtu.be/1vHhDjWunTw)
 
@@ -65,7 +65,7 @@ Simply upload an image, and our AI-driven system will provide an accurate diagno
 The original version of this project used plain HTML, CSS, and JavaScript for the frontend, and did not include a REST API layer.  
 It was later upgraded to a modern full-stack architecture using React and Django REST Framework to support better scalability, maintainability, and mobile API integration.
 
-👉 [Click here for the full repository.](https://github.com/Dor12k/Full-Stack-Strawberry-Disease-Classification)
+👉 [Click here for the full repository](https://github.com/Dor12k/Full-Stack-Strawberry-Disease-Classification)
 <br>
 
 
@@ -83,7 +83,7 @@ Built with **Python**, **TensorFlow**, **OpenCV**, and **NumPy**, featuring GPS 
 
 **Tech Stack:** Python, TensorFlow, OpenCV, NumPy, Matplotlib, Pandas
 
-👉 [Click here for the full repository.](https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone)
+👉 [Click here for the full repository](https://github.com/Dor12k/Project-Repel-Pigeons-with-AI-Drone)
 
 # <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://private-user-images.githubusercontent.com/107938584/245761996-a852af70-bcc8-4bc4-b4ee-435e4684a480.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NzM5MzYsIm5iZiI6MTc1OTg3MzYzNiwicGF0aCI6Ii8xMDc5Mzg1ODQvMjQ1NzYxOTk2LWE4NTJhZjcwLWJjYzgtNGJjNC1iNGVlLTQzNWU0Njg0YTQ4MC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QyMTQ3MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYTUzNjFmYjNhMTZlZTMzYTFlYWY4NDE4MmJlMDhjOTgxOWI1ZWZjY2JlMjNiNzA5ZmI5YjQwYzZiODI3YjA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.U6-F9459S2Culg-i8SQOZKUow728QCery-cccekwicg)
 
@@ -97,7 +97,7 @@ A full-stack web application that replicates key features of Canva, enabling use
 
 **Tech Stack:** Vite, React.js, Node.js, Express.js and MongoDB.
 
-👉 [Click here for the full repository.](https://github.com/Dor12k/MERN-Canva-Project)
+👉 [Click here for the full repository](https://github.com/Dor12k/MERN-Canva-Project)
 
 # <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
 
