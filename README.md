@@ -40,10 +40,15 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 
 ## 2. AI Full-Stack Web & Android Application: Strawberry Plant Leaf Diseases Classification
 
-[AIStrawberries.com]() is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
+AIStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
 Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 <br><br>
+
+
+# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
+
+[![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 ### Tech Stack (Latest Version)
 
@@ -69,9 +74,6 @@ It was later upgraded to a modern full-stack architecture using React and Django
 <br>
 
 
-# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
-
-[![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 <br>
 
