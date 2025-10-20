@@ -43,10 +43,6 @@ Our website allows users to easily classify strawberry plant leaf diseases using
 Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
 <br>
 
-# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
-
-[![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
-
 ### Tech Stack (Latest Version)
 
 - **Backend:** Django, Python, Django REST Framework (DRF)
@@ -68,6 +64,10 @@ The original version of this project used plain HTML, CSS, and JavaScript for th
 It was later upgraded to a modern full-stack architecture using React and Django REST Framework to support better scalability, maintainability, and mobile API integration.
 
 👉 [Click here for the full repository](https://github.com/Dor12k/Full-Stack-Strawberry-Disease-Classification)
+
+# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
+
+[![Watch the video](https://github.com/user-attachments/assets/2338cea4-dfdf-4e35-8dc0-f07ef569ef62)](https://www.youtube.com/watch?v=HJZ-G3RxmnA)
 
 <br>
 
