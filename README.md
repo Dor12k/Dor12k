@@ -37,7 +37,7 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 <br>
 
 
-## 2. AI Full-Stack Web & Android Application | Deploying on AWS, CI/CD, Docker & CNN Model
+## 2. AI Full-Stack Web & Android Application | Deploying on AWS, CI/CD, Docker & CNN
 
 AIStrawberries.com is a full-stack web and Android application for strawberry leaf disease classification.  <br>
 Users can upload a photo of a leaf, and the system uses a custom AI CNN model for fast and accurate diagnosis.  <br>
