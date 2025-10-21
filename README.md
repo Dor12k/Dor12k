@@ -36,12 +36,14 @@ The system runs entirely on Raspberry Pi (Linux) and autonomously responds to tr
 
 <br>
 
-## 2. AI Full-Stack Web & Android Application: Strawberry Plant Leaf Diseases Classification
 
-AIStrawberries.com is an innovative platform designed for strawberry enthusiasts, farmers, and tech-savvy users alike. <br>
-Our website allows users to easily classify strawberry plant leaf diseases using advanced image recognition technology. <br>
-Simply upload an image, and our AI-driven system will provide an accurate diagnosis, helping you manage your strawberry crops effectively. 
-<br>
+## 2. AI Full-Stack Web & Android Application | Deploying on AWS, CI/CD, Docker & CNN Model
+
+AIStrawberries.com is a full-stack web and Android application for strawberry leaf disease classification.  <br>
+Users can upload a photo of a leaf, and the system uses a custom AI CNN model for fast and accurate diagnosis.  <br>
+The platform also provides articles on disease treatment, growing tips, AI in agriculture, recipes, and more.  <br>
+This project demonstrates full-stack development, custom CNN model training, and cloud deployment on AWS. <br>
+
 
 ### Tech Stack (Latest Version)
 
