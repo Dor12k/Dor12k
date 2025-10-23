@@ -93,7 +93,7 @@ https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a
 
 A full-stack web application that replicates key features of Canva, enabling users to register, create, and design custom canvases with various tools like resizing, rotating, font customization, and color adjustments  and more.
 
-**Tech Stack:** Vite, React.js, Node.js, Express.js and MongoDB.
+**Tech Stack:** React (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, Git, GitHub, Vercel and Cloudinary
 
 👉 [Click here for the full repository](https://github.com/Dor12k/MERN-Canva-Project)
 
